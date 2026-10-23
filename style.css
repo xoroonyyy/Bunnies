@@ -1,0 +1,39 @@
+body {
+    width: 90%;
+    margin: 5px;
+    padding: 5px;
+    font-family: Arial, sans-serif;
+    color: #fdf8f3
+    background-color: #fdf8f3
+}
+
+h1 {
+    text-align: left;
+    color: #a65d33;
+}
+
+h2 {
+    color: #c9784a; 
+}
+
+img,
+video {
+    display: block;
+    width: 100%;
+    margin: 5px;
+    border-radius: 2px;
+}
+audio {
+    display: block;
+    width: 100%;
+    margin: 5px;
+}
+button {
+    margin: 5px; 
+    padding: 2px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #fff;
+    background-color: #c9784a;
+    border-radius: 999px;
+}
